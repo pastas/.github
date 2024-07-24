@@ -1,4 +1,4 @@
-# Pastas
+# Pastas 🍝
 
 Pastas is an open source Python framework to analyse hydro(geo)logical time series. The Pastas organisation contains multiple repositories:
 
